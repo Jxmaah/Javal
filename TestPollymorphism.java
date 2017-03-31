@@ -1,4 +1,3 @@
-import java.io;
 public class TestPollymorphism
 {
 	public static void main(String args[] )
